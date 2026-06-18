@@ -1,0 +1,1880 @@
+{
+  "geradoEm": "2026-06-18T19:36:48.428Z",
+  "descricao": "Base de seleções e jogadores do CopaFoot (clone do Elifoot, Copa 2026). Força gerada automaticamente por divisão.",
+  "totalSelecoes": 16,
+  "totalJogadores": 288,
+  "selecoes": [
+    {
+      "id": "BRA",
+      "nome": "Brasil",
+      "confederacao": "CONMEBOL",
+      "pote": 1,
+      "forcaMedia": 87,
+      "jogadores": [
+        {
+          "id": "BRA-01",
+          "nome": "Alisson",
+          "posicao": "GOL",
+          "forca": 91
+        },
+        {
+          "id": "BRA-02",
+          "nome": "Ederson",
+          "posicao": "GOL",
+          "forca": 91
+        },
+        {
+          "id": "BRA-03",
+          "nome": "Danilo",
+          "posicao": "DEF",
+          "forca": 91
+        },
+        {
+          "id": "BRA-04",
+          "nome": "Marquinhos",
+          "posicao": "DEF",
+          "forca": 81
+        },
+        {
+          "id": "BRA-05",
+          "nome": "Gabriel Magalhães",
+          "posicao": "DEF",
+          "forca": 84
+        },
+        {
+          "id": "BRA-06",
+          "nome": "Éder Militão",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "BRA-07",
+          "nome": "Wendell",
+          "posicao": "DEF",
+          "forca": 92
+        },
+        {
+          "id": "BRA-08",
+          "nome": "Vanderson",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "BRA-09",
+          "nome": "Bruno Guimarães",
+          "posicao": "MEI",
+          "forca": 93
+        },
+        {
+          "id": "BRA-10",
+          "nome": "Lucas Paquetá",
+          "posicao": "MEI",
+          "forca": 91
+        },
+        {
+          "id": "BRA-11",
+          "nome": "André",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "BRA-12",
+          "nome": "Gerson",
+          "posicao": "MEI",
+          "forca": 93
+        },
+        {
+          "id": "BRA-13",
+          "nome": "Joelinton",
+          "posicao": "MEI",
+          "forca": 86
+        },
+        {
+          "id": "BRA-14",
+          "nome": "Andreas Pereira",
+          "posicao": "MEI",
+          "forca": 89
+        },
+        {
+          "id": "BRA-15",
+          "nome": "Vinícius Júnior",
+          "posicao": "ATA",
+          "forca": 92
+        },
+        {
+          "id": "BRA-16",
+          "nome": "Rodrygo",
+          "posicao": "ATA",
+          "forca": 85
+        },
+        {
+          "id": "BRA-17",
+          "nome": "Raphinha",
+          "posicao": "ATA",
+          "forca": 85
+        },
+        {
+          "id": "BRA-18",
+          "nome": "Endrick",
+          "posicao": "ATA",
+          "forca": 83
+        }
+      ]
+    },
+    {
+      "id": "ARG",
+      "nome": "Argentina",
+      "confederacao": "CONMEBOL",
+      "pote": 1,
+      "forcaMedia": 85,
+      "jogadores": [
+        {
+          "id": "ARG-01",
+          "nome": "Emiliano Martínez",
+          "posicao": "GOL",
+          "forca": 75
+        },
+        {
+          "id": "ARG-02",
+          "nome": "Gerónimo Rulli",
+          "posicao": "GOL",
+          "forca": 79
+        },
+        {
+          "id": "ARG-03",
+          "nome": "Nahuel Molina",
+          "posicao": "DEF",
+          "forca": 84
+        },
+        {
+          "id": "ARG-04",
+          "nome": "Cristian Romero",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "ARG-05",
+          "nome": "Nicolás Otamendi",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "ARG-06",
+          "nome": "Lisandro Martínez",
+          "posicao": "DEF",
+          "forca": 92
+        },
+        {
+          "id": "ARG-07",
+          "nome": "Marcos Acuña",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "ARG-08",
+          "nome": "Gonzalo Montiel",
+          "posicao": "DEF",
+          "forca": 89
+        },
+        {
+          "id": "ARG-09",
+          "nome": "Rodrigo De Paul",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "ARG-10",
+          "nome": "Enzo Fernández",
+          "posicao": "MEI",
+          "forca": 93
+        },
+        {
+          "id": "ARG-11",
+          "nome": "Alexis Mac Allister",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "ARG-12",
+          "nome": "Leandro Paredes",
+          "posicao": "MEI",
+          "forca": 90
+        },
+        {
+          "id": "ARG-13",
+          "nome": "Giovani Lo Celso",
+          "posicao": "MEI",
+          "forca": 92
+        },
+        {
+          "id": "ARG-14",
+          "nome": "Exequiel Palacios",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "ARG-15",
+          "nome": "Lionel Messi",
+          "posicao": "ATA",
+          "forca": 92
+        },
+        {
+          "id": "ARG-16",
+          "nome": "Julián Álvarez",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "ARG-17",
+          "nome": "Lautaro Martínez",
+          "posicao": "ATA",
+          "forca": 89
+        },
+        {
+          "id": "ARG-18",
+          "nome": "Ángel Di María",
+          "posicao": "ATA",
+          "forca": 88
+        }
+      ]
+    },
+    {
+      "id": "FRA",
+      "nome": "França",
+      "confederacao": "UEFA",
+      "pote": 1,
+      "forcaMedia": 86,
+      "jogadores": [
+        {
+          "id": "FRA-01",
+          "nome": "Mike Maignan",
+          "posicao": "GOL",
+          "forca": 88
+        },
+        {
+          "id": "FRA-02",
+          "nome": "Brice Samba",
+          "posicao": "GOL",
+          "forca": 92
+        },
+        {
+          "id": "FRA-03",
+          "nome": "Jules Koundé",
+          "posicao": "DEF",
+          "forca": 92
+        },
+        {
+          "id": "FRA-04",
+          "nome": "Dayot Upamecano",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "FRA-05",
+          "nome": "William Saliba",
+          "posicao": "DEF",
+          "forca": 93
+        },
+        {
+          "id": "FRA-06",
+          "nome": "Ibrahima Konaté",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "FRA-07",
+          "nome": "Theo Hernández",
+          "posicao": "DEF",
+          "forca": 75
+        },
+        {
+          "id": "FRA-08",
+          "nome": "Lucas Hernández",
+          "posicao": "DEF",
+          "forca": 87
+        },
+        {
+          "id": "FRA-09",
+          "nome": "Aurélien Tchouaméni",
+          "posicao": "MEI",
+          "forca": 90
+        },
+        {
+          "id": "FRA-10",
+          "nome": "Eduardo Camavinga",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "FRA-11",
+          "nome": "Adrien Rabiot",
+          "posicao": "MEI",
+          "forca": 86
+        },
+        {
+          "id": "FRA-12",
+          "nome": "Antoine Griezmann",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "FRA-13",
+          "nome": "N'Golo Kanté",
+          "posicao": "MEI",
+          "forca": 93
+        },
+        {
+          "id": "FRA-14",
+          "nome": "Youssouf Fofana",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "FRA-15",
+          "nome": "Kylian Mbappé",
+          "posicao": "ATA",
+          "forca": 89
+        },
+        {
+          "id": "FRA-16",
+          "nome": "Ousmane Dembélé",
+          "posicao": "ATA",
+          "forca": 89
+        },
+        {
+          "id": "FRA-17",
+          "nome": "Marcus Thuram",
+          "posicao": "ATA",
+          "forca": 87
+        },
+        {
+          "id": "FRA-18",
+          "nome": "Randal Kolo Muani",
+          "posicao": "ATA",
+          "forca": 93
+        }
+      ]
+    },
+    {
+      "id": "ESP",
+      "nome": "Espanha",
+      "confederacao": "UEFA",
+      "pote": 1,
+      "forcaMedia": 84,
+      "jogadores": [
+        {
+          "id": "ESP-01",
+          "nome": "Unai Simón",
+          "posicao": "GOL",
+          "forca": 85
+        },
+        {
+          "id": "ESP-02",
+          "nome": "David Raya",
+          "posicao": "GOL",
+          "forca": 83
+        },
+        {
+          "id": "ESP-03",
+          "nome": "Dani Carvajal",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "ESP-04",
+          "nome": "Pau Cubarsí",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "ESP-05",
+          "nome": "Robin Le Normand",
+          "posicao": "DEF",
+          "forca": 77
+        },
+        {
+          "id": "ESP-06",
+          "nome": "Aymeric Laporte",
+          "posicao": "DEF",
+          "forca": 87
+        },
+        {
+          "id": "ESP-07",
+          "nome": "Marc Cucurella",
+          "posicao": "DEF",
+          "forca": 87
+        },
+        {
+          "id": "ESP-08",
+          "nome": "Alejandro Balde",
+          "posicao": "DEF",
+          "forca": 78
+        },
+        {
+          "id": "ESP-09",
+          "nome": "Rodri",
+          "posicao": "MEI",
+          "forca": 90
+        },
+        {
+          "id": "ESP-10",
+          "nome": "Pedri",
+          "posicao": "MEI",
+          "forca": 93
+        },
+        {
+          "id": "ESP-11",
+          "nome": "Gavi",
+          "posicao": "MEI",
+          "forca": 83
+        },
+        {
+          "id": "ESP-12",
+          "nome": "Fabián Ruiz",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "ESP-13",
+          "nome": "Martín Zubimendi",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "ESP-14",
+          "nome": "Mikel Merino",
+          "posicao": "MEI",
+          "forca": 90
+        },
+        {
+          "id": "ESP-15",
+          "nome": "Lamine Yamal",
+          "posicao": "ATA",
+          "forca": 90
+        },
+        {
+          "id": "ESP-16",
+          "nome": "Nico Williams",
+          "posicao": "ATA",
+          "forca": 81
+        },
+        {
+          "id": "ESP-17",
+          "nome": "Álvaro Morata",
+          "posicao": "ATA",
+          "forca": 87
+        },
+        {
+          "id": "ESP-18",
+          "nome": "Mikel Oyarzabal",
+          "posicao": "ATA",
+          "forca": 84
+        }
+      ]
+    },
+    {
+      "id": "ENG",
+      "nome": "Inglaterra",
+      "confederacao": "UEFA",
+      "pote": 1,
+      "forcaMedia": 84,
+      "jogadores": [
+        {
+          "id": "ENG-01",
+          "nome": "Jordan Pickford",
+          "posicao": "GOL",
+          "forca": 80
+        },
+        {
+          "id": "ENG-02",
+          "nome": "Dean Henderson",
+          "posicao": "GOL",
+          "forca": 89
+        },
+        {
+          "id": "ENG-03",
+          "nome": "Kyle Walker",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "ENG-04",
+          "nome": "John Stones",
+          "posicao": "DEF",
+          "forca": 77
+        },
+        {
+          "id": "ENG-05",
+          "nome": "Marc Guéhi",
+          "posicao": "DEF",
+          "forca": 76
+        },
+        {
+          "id": "ENG-06",
+          "nome": "Ezri Konsa",
+          "posicao": "DEF",
+          "forca": 89
+        },
+        {
+          "id": "ENG-07",
+          "nome": "Luke Shaw",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "ENG-08",
+          "nome": "Trent Alexander-Arnold",
+          "posicao": "DEF",
+          "forca": 81
+        },
+        {
+          "id": "ENG-09",
+          "nome": "Declan Rice",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "ENG-10",
+          "nome": "Jude Bellingham",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "ENG-11",
+          "nome": "Phil Foden",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "ENG-12",
+          "nome": "Cole Palmer",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "ENG-13",
+          "nome": "Kobbie Mainoo",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "ENG-14",
+          "nome": "Conor Gallagher",
+          "posicao": "MEI",
+          "forca": 89
+        },
+        {
+          "id": "ENG-15",
+          "nome": "Harry Kane",
+          "posicao": "ATA",
+          "forca": 84
+        },
+        {
+          "id": "ENG-16",
+          "nome": "Bukayo Saka",
+          "posicao": "ATA",
+          "forca": 85
+        },
+        {
+          "id": "ENG-17",
+          "nome": "Anthony Gordon",
+          "posicao": "ATA",
+          "forca": 86
+        },
+        {
+          "id": "ENG-18",
+          "nome": "Ollie Watkins",
+          "posicao": "ATA",
+          "forca": 90
+        }
+      ]
+    },
+    {
+      "id": "POR",
+      "nome": "Portugal",
+      "confederacao": "UEFA",
+      "pote": 1,
+      "forcaMedia": 83,
+      "jogadores": [
+        {
+          "id": "POR-01",
+          "nome": "Diogo Costa",
+          "posicao": "GOL",
+          "forca": 85
+        },
+        {
+          "id": "POR-02",
+          "nome": "Rui Patrício",
+          "posicao": "GOL",
+          "forca": 80
+        },
+        {
+          "id": "POR-03",
+          "nome": "João Cancelo",
+          "posicao": "DEF",
+          "forca": 87
+        },
+        {
+          "id": "POR-04",
+          "nome": "Rúben Dias",
+          "posicao": "DEF",
+          "forca": 76
+        },
+        {
+          "id": "POR-05",
+          "nome": "Pepe",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "POR-06",
+          "nome": "Gonçalo Inácio",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "POR-07",
+          "nome": "Nuno Mendes",
+          "posicao": "DEF",
+          "forca": 75
+        },
+        {
+          "id": "POR-08",
+          "nome": "Diogo Dalot",
+          "posicao": "DEF",
+          "forca": 85
+        },
+        {
+          "id": "POR-09",
+          "nome": "Bruno Fernandes",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "POR-10",
+          "nome": "Bernardo Silva",
+          "posicao": "MEI",
+          "forca": 83
+        },
+        {
+          "id": "POR-11",
+          "nome": "Vitinha",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "POR-12",
+          "nome": "João Palhinha",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "POR-13",
+          "nome": "Rúben Neves",
+          "posicao": "MEI",
+          "forca": 85
+        },
+        {
+          "id": "POR-14",
+          "nome": "João Neves",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "POR-15",
+          "nome": "Cristiano Ronaldo",
+          "posicao": "ATA",
+          "forca": 89
+        },
+        {
+          "id": "POR-16",
+          "nome": "Rafael Leão",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "POR-17",
+          "nome": "Gonçalo Ramos",
+          "posicao": "ATA",
+          "forca": 87
+        },
+        {
+          "id": "POR-18",
+          "nome": "Diogo Jota",
+          "posicao": "ATA",
+          "forca": 94
+        }
+      ]
+    },
+    {
+      "id": "NED",
+      "nome": "Holanda",
+      "confederacao": "UEFA",
+      "pote": 2,
+      "forcaMedia": 79,
+      "jogadores": [
+        {
+          "id": "NED-01",
+          "nome": "Bart Verbruggen",
+          "posicao": "GOL",
+          "forca": 70
+        },
+        {
+          "id": "NED-02",
+          "nome": "Mark Flekken",
+          "posicao": "GOL",
+          "forca": 83
+        },
+        {
+          "id": "NED-03",
+          "nome": "Denzel Dumfries",
+          "posicao": "DEF",
+          "forca": 84
+        },
+        {
+          "id": "NED-04",
+          "nome": "Virgil van Dijk",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "NED-05",
+          "nome": "Stefan de Vrij",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "NED-06",
+          "nome": "Nathan Aké",
+          "posicao": "DEF",
+          "forca": 75
+        },
+        {
+          "id": "NED-07",
+          "nome": "Daley Blind",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "NED-08",
+          "nome": "Lutsharel Geertruida",
+          "posicao": "DEF",
+          "forca": 70
+        },
+        {
+          "id": "NED-09",
+          "nome": "Frenkie de Jong",
+          "posicao": "MEI",
+          "forca": 84
+        },
+        {
+          "id": "NED-10",
+          "nome": "Tijjani Reijnders",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "NED-11",
+          "nome": "Ryan Gravenberch",
+          "posicao": "MEI",
+          "forca": 81
+        },
+        {
+          "id": "NED-12",
+          "nome": "Xavi Simons",
+          "posicao": "MEI",
+          "forca": 86
+        },
+        {
+          "id": "NED-13",
+          "nome": "Teun Koopmeiners",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "NED-14",
+          "nome": "Joey Veerman",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "NED-15",
+          "nome": "Memphis Depay",
+          "posicao": "ATA",
+          "forca": 70
+        },
+        {
+          "id": "NED-16",
+          "nome": "Cody Gakpo",
+          "posicao": "ATA",
+          "forca": 84
+        },
+        {
+          "id": "NED-17",
+          "nome": "Donyell Malen",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "NED-18",
+          "nome": "Wout Weghorst",
+          "posicao": "ATA",
+          "forca": 78
+        }
+      ]
+    },
+    {
+      "id": "GER",
+      "nome": "Alemanha",
+      "confederacao": "UEFA",
+      "pote": 2,
+      "forcaMedia": 78,
+      "jogadores": [
+        {
+          "id": "GER-01",
+          "nome": "Marc-André ter Stegen",
+          "posicao": "GOL",
+          "forca": 75
+        },
+        {
+          "id": "GER-02",
+          "nome": "Manuel Neuer",
+          "posicao": "GOL",
+          "forca": 84
+        },
+        {
+          "id": "GER-03",
+          "nome": "Joshua Kimmich",
+          "posicao": "DEF",
+          "forca": 77
+        },
+        {
+          "id": "GER-04",
+          "nome": "Antonio Rüdiger",
+          "posicao": "DEF",
+          "forca": 74
+        },
+        {
+          "id": "GER-05",
+          "nome": "Jonathan Tah",
+          "posicao": "DEF",
+          "forca": 78
+        },
+        {
+          "id": "GER-06",
+          "nome": "Nico Schlotterbeck",
+          "posicao": "DEF",
+          "forca": 81
+        },
+        {
+          "id": "GER-07",
+          "nome": "David Raum",
+          "posicao": "DEF",
+          "forca": 73
+        },
+        {
+          "id": "GER-08",
+          "nome": "Benjamin Henrichs",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "GER-09",
+          "nome": "İlkay Gündoğan",
+          "posicao": "MEI",
+          "forca": 73
+        },
+        {
+          "id": "GER-10",
+          "nome": "Robert Andrich",
+          "posicao": "MEI",
+          "forca": 84
+        },
+        {
+          "id": "GER-11",
+          "nome": "Pascal Groß",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "GER-12",
+          "nome": "Florian Wirtz",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "GER-13",
+          "nome": "Jamal Musiala",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "GER-14",
+          "nome": "Leon Goretzka",
+          "posicao": "MEI",
+          "forca": 73
+        },
+        {
+          "id": "GER-15",
+          "nome": "Kai Havertz",
+          "posicao": "ATA",
+          "forca": 75
+        },
+        {
+          "id": "GER-16",
+          "nome": "Niclas Füllkrug",
+          "posicao": "ATA",
+          "forca": 79
+        },
+        {
+          "id": "GER-17",
+          "nome": "Leroy Sané",
+          "posicao": "ATA",
+          "forca": 84
+        },
+        {
+          "id": "GER-18",
+          "nome": "Serge Gnabry",
+          "posicao": "ATA",
+          "forca": 75
+        }
+      ]
+    },
+    {
+      "id": "BEL",
+      "nome": "Bélgica",
+      "confederacao": "UEFA",
+      "pote": 2,
+      "forcaMedia": 80,
+      "jogadores": [
+        {
+          "id": "BEL-01",
+          "nome": "Thibaut Courtois",
+          "posicao": "GOL",
+          "forca": 71
+        },
+        {
+          "id": "BEL-02",
+          "nome": "Koen Casteels",
+          "posicao": "GOL",
+          "forca": 74
+        },
+        {
+          "id": "BEL-03",
+          "nome": "Timothy Castagne",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "BEL-04",
+          "nome": "Wout Faes",
+          "posicao": "DEF",
+          "forca": 75
+        },
+        {
+          "id": "BEL-05",
+          "nome": "Zeno Debast",
+          "posicao": "DEF",
+          "forca": 87
+        },
+        {
+          "id": "BEL-06",
+          "nome": "Arthur Theate",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "BEL-07",
+          "nome": "Maxim De Cuyper",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "BEL-08",
+          "nome": "Thomas Meunier",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "BEL-09",
+          "nome": "Kevin De Bruyne",
+          "posicao": "MEI",
+          "forca": 84
+        },
+        {
+          "id": "BEL-10",
+          "nome": "Youri Tielemans",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "BEL-11",
+          "nome": "Amadou Onana",
+          "posicao": "MEI",
+          "forca": 74
+        },
+        {
+          "id": "BEL-12",
+          "nome": "Orel Mangala",
+          "posicao": "MEI",
+          "forca": 83
+        },
+        {
+          "id": "BEL-13",
+          "nome": "Charles De Ketelaere",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "BEL-14",
+          "nome": "Hans Vanaken",
+          "posicao": "MEI",
+          "forca": 85
+        },
+        {
+          "id": "BEL-15",
+          "nome": "Romelu Lukaku",
+          "posicao": "ATA",
+          "forca": 86
+        },
+        {
+          "id": "BEL-16",
+          "nome": "Jérémy Doku",
+          "posicao": "ATA",
+          "forca": 85
+        },
+        {
+          "id": "BEL-17",
+          "nome": "Leandro Trossard",
+          "posicao": "ATA",
+          "forca": 74
+        },
+        {
+          "id": "BEL-18",
+          "nome": "Dodi Lukebakio",
+          "posicao": "ATA",
+          "forca": 78
+        }
+      ]
+    },
+    {
+      "id": "CRO",
+      "nome": "Croácia",
+      "confederacao": "UEFA",
+      "pote": 2,
+      "forcaMedia": 79,
+      "jogadores": [
+        {
+          "id": "CRO-01",
+          "nome": "Dominik Livaković",
+          "posicao": "GOL",
+          "forca": 84
+        },
+        {
+          "id": "CRO-02",
+          "nome": "Ivica Ivušić",
+          "posicao": "GOL",
+          "forca": 69
+        },
+        {
+          "id": "CRO-03",
+          "nome": "Josip Stanišić",
+          "posicao": "DEF",
+          "forca": 76
+        },
+        {
+          "id": "CRO-04",
+          "nome": "Joško Gvardiol",
+          "posicao": "DEF",
+          "forca": 79
+        },
+        {
+          "id": "CRO-05",
+          "nome": "Josip Šutalo",
+          "posicao": "DEF",
+          "forca": 72
+        },
+        {
+          "id": "CRO-06",
+          "nome": "Duje Ćaleta-Car",
+          "posicao": "DEF",
+          "forca": 74
+        },
+        {
+          "id": "CRO-07",
+          "nome": "Borna Sosa",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "CRO-08",
+          "nome": "Domagoj Vida",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "CRO-09",
+          "nome": "Luka Modrić",
+          "posicao": "MEI",
+          "forca": 85
+        },
+        {
+          "id": "CRO-10",
+          "nome": "Mateo Kovačić",
+          "posicao": "MEI",
+          "forca": 84
+        },
+        {
+          "id": "CRO-11",
+          "nome": "Marcelo Brozović",
+          "posicao": "MEI",
+          "forca": 76
+        },
+        {
+          "id": "CRO-12",
+          "nome": "Mario Pašalić",
+          "posicao": "MEI",
+          "forca": 72
+        },
+        {
+          "id": "CRO-13",
+          "nome": "Lovro Majer",
+          "posicao": "MEI",
+          "forca": 70
+        },
+        {
+          "id": "CRO-14",
+          "nome": "Nikola Vlašić",
+          "posicao": "MEI",
+          "forca": 86
+        },
+        {
+          "id": "CRO-15",
+          "nome": "Andrej Kramarić",
+          "posicao": "ATA",
+          "forca": 82
+        },
+        {
+          "id": "CRO-16",
+          "nome": "Ante Budimir",
+          "posicao": "ATA",
+          "forca": 80
+        },
+        {
+          "id": "CRO-17",
+          "nome": "Bruno Petković",
+          "posicao": "ATA",
+          "forca": 82
+        },
+        {
+          "id": "CRO-18",
+          "nome": "Igor Matanović",
+          "posicao": "ATA",
+          "forca": 83
+        }
+      ]
+    },
+    {
+      "id": "URU",
+      "nome": "Uruguai",
+      "confederacao": "CONMEBOL",
+      "pote": 2,
+      "forcaMedia": 79,
+      "jogadores": [
+        {
+          "id": "URU-01",
+          "nome": "Sergio Rochet",
+          "posicao": "GOL",
+          "forca": 83
+        },
+        {
+          "id": "URU-02",
+          "nome": "Santiago Mele",
+          "posicao": "GOL",
+          "forca": 71
+        },
+        {
+          "id": "URU-03",
+          "nome": "Nahitan Nández",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "URU-04",
+          "nome": "Ronald Araújo",
+          "posicao": "DEF",
+          "forca": 71
+        },
+        {
+          "id": "URU-05",
+          "nome": "José María Giménez",
+          "posicao": "DEF",
+          "forca": 84
+        },
+        {
+          "id": "URU-06",
+          "nome": "Sebastián Cáceres",
+          "posicao": "DEF",
+          "forca": 76
+        },
+        {
+          "id": "URU-07",
+          "nome": "Mathías Olivera",
+          "posicao": "DEF",
+          "forca": 77
+        },
+        {
+          "id": "URU-08",
+          "nome": "Guillermo Varela",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "URU-09",
+          "nome": "Federico Valverde",
+          "posicao": "MEI",
+          "forca": 73
+        },
+        {
+          "id": "URU-10",
+          "nome": "Manuel Ugarte",
+          "posicao": "MEI",
+          "forca": 88
+        },
+        {
+          "id": "URU-11",
+          "nome": "Rodrigo Bentancur",
+          "posicao": "MEI",
+          "forca": 80
+        },
+        {
+          "id": "URU-12",
+          "nome": "Nicolás de la Cruz",
+          "posicao": "MEI",
+          "forca": 73
+        },
+        {
+          "id": "URU-13",
+          "nome": "Giorgian de Arrascaeta",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "URU-14",
+          "nome": "Facundo Pellistri",
+          "posicao": "MEI",
+          "forca": 76
+        },
+        {
+          "id": "URU-15",
+          "nome": "Darwin Núñez",
+          "posicao": "ATA",
+          "forca": 87
+        },
+        {
+          "id": "URU-16",
+          "nome": "Maxi Araújo",
+          "posicao": "ATA",
+          "forca": 84
+        },
+        {
+          "id": "URU-17",
+          "nome": "Brian Rodríguez",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "URU-18",
+          "nome": "Federico Viñas",
+          "posicao": "ATA",
+          "forca": 73
+        }
+      ]
+    },
+    {
+      "id": "COL",
+      "nome": "Colômbia",
+      "confederacao": "CONMEBOL",
+      "pote": 2,
+      "forcaMedia": 80,
+      "jogadores": [
+        {
+          "id": "COL-01",
+          "nome": "Camilo Vargas",
+          "posicao": "GOL",
+          "forca": 78
+        },
+        {
+          "id": "COL-02",
+          "nome": "David Ospina",
+          "posicao": "GOL",
+          "forca": 72
+        },
+        {
+          "id": "COL-03",
+          "nome": "Daniel Muñoz",
+          "posicao": "DEF",
+          "forca": 83
+        },
+        {
+          "id": "COL-04",
+          "nome": "Davinson Sánchez",
+          "posicao": "DEF",
+          "forca": 85
+        },
+        {
+          "id": "COL-05",
+          "nome": "Yerry Mina",
+          "posicao": "DEF",
+          "forca": 71
+        },
+        {
+          "id": "COL-06",
+          "nome": "Carlos Cuesta",
+          "posicao": "DEF",
+          "forca": 68
+        },
+        {
+          "id": "COL-07",
+          "nome": "Johan Mojica",
+          "posicao": "DEF",
+          "forca": 84
+        },
+        {
+          "id": "COL-08",
+          "nome": "Santiago Arias",
+          "posicao": "DEF",
+          "forca": 74
+        },
+        {
+          "id": "COL-09",
+          "nome": "James Rodríguez",
+          "posicao": "MEI",
+          "forca": 76
+        },
+        {
+          "id": "COL-10",
+          "nome": "Jefferson Lerma",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "COL-11",
+          "nome": "Richard Ríos",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "COL-12",
+          "nome": "Kevin Castaño",
+          "posicao": "MEI",
+          "forca": 87
+        },
+        {
+          "id": "COL-13",
+          "nome": "Juan Fernando Quintero",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "COL-14",
+          "nome": "Jorge Carrascal",
+          "posicao": "MEI",
+          "forca": 82
+        },
+        {
+          "id": "COL-15",
+          "nome": "Luis Díaz",
+          "posicao": "ATA",
+          "forca": 81
+        },
+        {
+          "id": "COL-16",
+          "nome": "Jhon Córdoba",
+          "posicao": "ATA",
+          "forca": 84
+        },
+        {
+          "id": "COL-17",
+          "nome": "Rafael Santos Borré",
+          "posicao": "ATA",
+          "forca": 83
+        },
+        {
+          "id": "COL-18",
+          "nome": "Jhon Durán",
+          "posicao": "ATA",
+          "forca": 81
+        }
+      ]
+    },
+    {
+      "id": "MAR",
+      "nome": "Marrocos",
+      "confederacao": "CAF",
+      "pote": 2,
+      "forcaMedia": 77,
+      "jogadores": [
+        {
+          "id": "MAR-01",
+          "nome": "Yassine Bounou",
+          "posicao": "GOL",
+          "forca": 83
+        },
+        {
+          "id": "MAR-02",
+          "nome": "Munir Mohamedi",
+          "posicao": "GOL",
+          "forca": 69
+        },
+        {
+          "id": "MAR-03",
+          "nome": "Achraf Hakimi",
+          "posicao": "DEF",
+          "forca": 82
+        },
+        {
+          "id": "MAR-04",
+          "nome": "Romain Saïss",
+          "posicao": "DEF",
+          "forca": 86
+        },
+        {
+          "id": "MAR-05",
+          "nome": "Nayef Aguerd",
+          "posicao": "DEF",
+          "forca": 77
+        },
+        {
+          "id": "MAR-06",
+          "nome": "Noussair Mazraoui",
+          "posicao": "DEF",
+          "forca": 70
+        },
+        {
+          "id": "MAR-07",
+          "nome": "Yahia Attiyat Allah",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "MAR-08",
+          "nome": "Jawad El Yamiq",
+          "posicao": "DEF",
+          "forca": 70
+        },
+        {
+          "id": "MAR-09",
+          "nome": "Sofyan Amrabat",
+          "posicao": "MEI",
+          "forca": 73
+        },
+        {
+          "id": "MAR-10",
+          "nome": "Azzedine Ounahi",
+          "posicao": "MEI",
+          "forca": 71
+        },
+        {
+          "id": "MAR-11",
+          "nome": "Bilal El Khannous",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "MAR-12",
+          "nome": "Amir Richardson",
+          "posicao": "MEI",
+          "forca": 78
+        },
+        {
+          "id": "MAR-13",
+          "nome": "Selim Amallah",
+          "posicao": "MEI",
+          "forca": 76
+        },
+        {
+          "id": "MAR-14",
+          "nome": "Sofiane Boufal",
+          "posicao": "MEI",
+          "forca": 71
+        },
+        {
+          "id": "MAR-15",
+          "nome": "Hakim Ziyech",
+          "posicao": "ATA",
+          "forca": 78
+        },
+        {
+          "id": "MAR-16",
+          "nome": "Youssef En-Nesyri",
+          "posicao": "ATA",
+          "forca": 83
+        },
+        {
+          "id": "MAR-17",
+          "nome": "Brahim Díaz",
+          "posicao": "ATA",
+          "forca": 81
+        },
+        {
+          "id": "MAR-18",
+          "nome": "Ayoub El Kaabi",
+          "posicao": "ATA",
+          "forca": 79
+        }
+      ]
+    },
+    {
+      "id": "USA",
+      "nome": "Estados Unidos",
+      "confederacao": "CONCACAF",
+      "pote": 3,
+      "forcaMedia": 71,
+      "jogadores": [
+        {
+          "id": "USA-01",
+          "nome": "Matt Turner",
+          "posicao": "GOL",
+          "forca": 70
+        },
+        {
+          "id": "USA-02",
+          "nome": "Ethan Horvath",
+          "posicao": "GOL",
+          "forca": 72
+        },
+        {
+          "id": "USA-03",
+          "nome": "Sergiño Dest",
+          "posicao": "DEF",
+          "forca": 63
+        },
+        {
+          "id": "USA-04",
+          "nome": "Chris Richards",
+          "posicao": "DEF",
+          "forca": 65
+        },
+        {
+          "id": "USA-05",
+          "nome": "Tim Ream",
+          "posicao": "DEF",
+          "forca": 63
+        },
+        {
+          "id": "USA-06",
+          "nome": "Cameron Carter-Vickers",
+          "posicao": "DEF",
+          "forca": 71
+        },
+        {
+          "id": "USA-07",
+          "nome": "Antonee Robinson",
+          "posicao": "DEF",
+          "forca": 80
+        },
+        {
+          "id": "USA-08",
+          "nome": "Joe Scally",
+          "posicao": "DEF",
+          "forca": 66
+        },
+        {
+          "id": "USA-09",
+          "nome": "Tyler Adams",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "USA-10",
+          "nome": "Weston McKennie",
+          "posicao": "MEI",
+          "forca": 79
+        },
+        {
+          "id": "USA-11",
+          "nome": "Yunus Musah",
+          "posicao": "MEI",
+          "forca": 62
+        },
+        {
+          "id": "USA-12",
+          "nome": "Giovanni Reyna",
+          "posicao": "MEI",
+          "forca": 71
+        },
+        {
+          "id": "USA-13",
+          "nome": "Luca de la Torre",
+          "posicao": "MEI",
+          "forca": 74
+        },
+        {
+          "id": "USA-14",
+          "nome": "Malik Tillman",
+          "posicao": "MEI",
+          "forca": 71
+        },
+        {
+          "id": "USA-15",
+          "nome": "Christian Pulisic",
+          "posicao": "ATA",
+          "forca": 79
+        },
+        {
+          "id": "USA-16",
+          "nome": "Folarin Balogun",
+          "posicao": "ATA",
+          "forca": 75
+        },
+        {
+          "id": "USA-17",
+          "nome": "Timothy Weah",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "USA-18",
+          "nome": "Ricardo Pepi",
+          "posicao": "ATA",
+          "forca": 63
+        }
+      ]
+    },
+    {
+      "id": "MEX",
+      "nome": "México",
+      "confederacao": "CONCACAF",
+      "pote": 3,
+      "forcaMedia": 69,
+      "jogadores": [
+        {
+          "id": "MEX-01",
+          "nome": "Guillermo Ochoa",
+          "posicao": "GOL",
+          "forca": 68
+        },
+        {
+          "id": "MEX-02",
+          "nome": "Luis Malagón",
+          "posicao": "GOL",
+          "forca": 72
+        },
+        {
+          "id": "MEX-03",
+          "nome": "Jorge Sánchez",
+          "posicao": "DEF",
+          "forca": 69
+        },
+        {
+          "id": "MEX-04",
+          "nome": "César Montes",
+          "posicao": "DEF",
+          "forca": 64
+        },
+        {
+          "id": "MEX-05",
+          "nome": "Johan Vásquez",
+          "posicao": "DEF",
+          "forca": 67
+        },
+        {
+          "id": "MEX-06",
+          "nome": "Israel Reyes",
+          "posicao": "DEF",
+          "forca": 73
+        },
+        {
+          "id": "MEX-07",
+          "nome": "Jesús Gallardo",
+          "posicao": "DEF",
+          "forca": 65
+        },
+        {
+          "id": "MEX-08",
+          "nome": "Gerardo Arteaga",
+          "posicao": "DEF",
+          "forca": 65
+        },
+        {
+          "id": "MEX-09",
+          "nome": "Edson Álvarez",
+          "posicao": "MEI",
+          "forca": 66
+        },
+        {
+          "id": "MEX-10",
+          "nome": "Luis Chávez",
+          "posicao": "MEI",
+          "forca": 81
+        },
+        {
+          "id": "MEX-11",
+          "nome": "Orbelín Pineda",
+          "posicao": "MEI",
+          "forca": 67
+        },
+        {
+          "id": "MEX-12",
+          "nome": "Luis Romo",
+          "posicao": "MEI",
+          "forca": 76
+        },
+        {
+          "id": "MEX-13",
+          "nome": "Carlos Rodríguez",
+          "posicao": "MEI",
+          "forca": 75
+        },
+        {
+          "id": "MEX-14",
+          "nome": "Érick Sánchez",
+          "posicao": "MEI",
+          "forca": 75
+        },
+        {
+          "id": "MEX-15",
+          "nome": "Hirving Lozano",
+          "posicao": "ATA",
+          "forca": 62
+        },
+        {
+          "id": "MEX-16",
+          "nome": "Santiago Giménez",
+          "posicao": "ATA",
+          "forca": 67
+        },
+        {
+          "id": "MEX-17",
+          "nome": "Raúl Jiménez",
+          "posicao": "ATA",
+          "forca": 74
+        },
+        {
+          "id": "MEX-18",
+          "nome": "Alexis Vega",
+          "posicao": "ATA",
+          "forca": 64
+        }
+      ]
+    },
+    {
+      "id": "JPN",
+      "nome": "Japão",
+      "confederacao": "AFC",
+      "pote": 3,
+      "forcaMedia": 70,
+      "jogadores": [
+        {
+          "id": "JPN-01",
+          "nome": "Zion Suzuki",
+          "posicao": "GOL",
+          "forca": 74
+        },
+        {
+          "id": "JPN-02",
+          "nome": "Daniel Schmidt",
+          "posicao": "GOL",
+          "forca": 67
+        },
+        {
+          "id": "JPN-03",
+          "nome": "Hiroki Sakai",
+          "posicao": "DEF",
+          "forca": 63
+        },
+        {
+          "id": "JPN-04",
+          "nome": "Ko Itakura",
+          "posicao": "DEF",
+          "forca": 62
+        },
+        {
+          "id": "JPN-05",
+          "nome": "Takehiro Tomiyasu",
+          "posicao": "DEF",
+          "forca": 61
+        },
+        {
+          "id": "JPN-06",
+          "nome": "Shogo Taniguchi",
+          "posicao": "DEF",
+          "forca": 75
+        },
+        {
+          "id": "JPN-07",
+          "nome": "Yukinari Sugawara",
+          "posicao": "DEF",
+          "forca": 74
+        },
+        {
+          "id": "JPN-08",
+          "nome": "Hiroki Ito",
+          "posicao": "DEF",
+          "forca": 76
+        },
+        {
+          "id": "JPN-09",
+          "nome": "Wataru Endo",
+          "posicao": "MEI",
+          "forca": 70
+        },
+        {
+          "id": "JPN-10",
+          "nome": "Hidemasa Morita",
+          "posicao": "MEI",
+          "forca": 75
+        },
+        {
+          "id": "JPN-11",
+          "nome": "Daichi Kamada",
+          "posicao": "MEI",
+          "forca": 66
+        },
+        {
+          "id": "JPN-12",
+          "nome": "Takefusa Kubo",
+          "posicao": "MEI",
+          "forca": 77
+        },
+        {
+          "id": "JPN-13",
+          "nome": "Ritsu Doan",
+          "posicao": "MEI",
+          "forca": 81
+        },
+        {
+          "id": "JPN-14",
+          "nome": "Kaoru Mitoma",
+          "posicao": "MEI",
+          "forca": 64
+        },
+        {
+          "id": "JPN-15",
+          "nome": "Ayase Ueda",
+          "posicao": "ATA",
+          "forca": 64
+        },
+        {
+          "id": "JPN-16",
+          "nome": "Daizen Maeda",
+          "posicao": "ATA",
+          "forca": 77
+        },
+        {
+          "id": "JPN-17",
+          "nome": "Takuma Asano",
+          "posicao": "ATA",
+          "forca": 68
+        },
+        {
+          "id": "JPN-18",
+          "nome": "Junya Ito",
+          "posicao": "ATA",
+          "forca": 69
+        }
+      ]
+    }
+  ]
+}
